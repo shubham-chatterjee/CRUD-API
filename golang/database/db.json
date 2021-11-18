@@ -2,16 +2,16 @@
     {
         "id": "1",
         "password": "1723439758467661824",
-        "firstname": "Nabanita",
-        "lastname": "Baladhikari",
+        "firstname": "Dummy1",
+        "lastname": "Last1",
         "age": 43,
         "gender": "Female"
     },
     {
         "id": "7",
         "password": "1723441320539717632",
-        "firstname": "Shou",
-        "lastname": "Sakurazaki",
+        "firstname": "Dummy2",
+        "lastname": "Last2",
         "age": 17,
         "gender": "Male"
     }
