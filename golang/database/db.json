@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "password": "1723439758467661824",
+        "firstname": "Nabanita",
+        "lastname": "Baladhikari",
+        "age": 43,
+        "gender": "Female"
+    },
+    {
+        "id": "7",
+        "password": "1723441320539717632",
+        "firstname": "Shou",
+        "lastname": "Sakurazaki",
+        "age": 17,
+        "gender": "Male"
+    }
+]
