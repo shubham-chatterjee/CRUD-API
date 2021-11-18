@@ -3,9 +3,7 @@ package db
 import (
 	"encoding/json"
 	"errors"
-	_ "fmt"
 	"io/ioutil"
-	_ "log"
 	"os"
 )
 
